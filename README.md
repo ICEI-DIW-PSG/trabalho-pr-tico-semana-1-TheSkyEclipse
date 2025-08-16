@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Vinicius Queiros Perpetuo
+Matricula:894554
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+[Inpeção](images/Captura%20de%20tela%202025-08-16%20160046.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+[Tela Replit](images/hello.png)
 
 
 ## Orientações sobre Linguagem MarkDown
